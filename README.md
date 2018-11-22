@@ -19,6 +19,8 @@ I chose to design and implement a single-page web development portfolio site usi
 
 6. Implement four advanced features that demonstrate the ability to apply web design theory or practice (JavaScript, plugins, Accessibility features, animation, etc.).
 
+7. Deploy site.
+
 
 ## Requirements
 
@@ -30,9 +32,9 @@ I chose to design and implement a single-page web development portfolio site usi
 
 - Each page is responsive, has at least two different views, one for mobile and one for a larger screen, and a unique layout for each view.
 
-- One of the pages has at least 4 images.
+- One of the pages has at least four images.
 
-- Each page has a layout that is easy to follow and uses a variety of colors and fonts. The site has a unique style sheet with at least 9 unique CSS rules, even if a template or framework is used.
+- Each page has a layout that is easy to follow and uses a variety of colors and fonts. The site has a unique style sheet with at least nine unique CSS rules, even if a template or framework is used.
 
 - The site has four features that go beyond what was covered in the four previous courses of the Specialization.
 
@@ -51,7 +53,7 @@ I chose to build my site using Bootstrap 4 as a framework.
 
 - [ ] Use Bootstrap 4. (The specialization only covered Bootstrap 3.)
 
-- [ ] Add a Carousel with 4 images.
+- [ ] Add a Carousel with four images.
 
 - [ ] Add a fixed navbar to the top of the page.
 
