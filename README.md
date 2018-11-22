@@ -1,5 +1,7 @@
 # Web Development Portfolio Site
 
+**Work in Progress**
+
 The portfolio site is the capstone project for the Coursera Specialization [Web Desing for Everybody (Basics of Web Development and Coding)](https://www.coursera.org/specializations/web-design).
 
 I chose to design and implement a single-page web development portfolio site using Bootstrap 4.
@@ -28,7 +30,7 @@ I chose to design and implement a single-page web development portfolio site usi
 
 - Each page or section has at least two semantic html tags.
 
-- Each page validates at validator.w3.org. (Warnings are acceptable.)
+- Each page validates at [validator.w3.org](https://validator.w3.org) (warnings are acceptable) and [wave.webaim.org](http://wave.webaim.org).
 
 - Each page is responsive, has at least two different views, one for mobile and one for a larger screen, and a unique layout for each view.
 
