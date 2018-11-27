@@ -17,8 +17,6 @@ by Katharina Apel, September 26, 2017
 
 
 ### reuter-wanne.jpg (468 KB, 1024 x 1024 pixels)
-
-"Reuter Wanne, 1,541 m (5,056 ft), Allgäu Alps, Bavaria, Germany"
 by Katharina Apel, September 27, 2017
 
 
