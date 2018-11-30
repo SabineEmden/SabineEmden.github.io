@@ -9,19 +9,19 @@ I chose to design and implement a single-page web development portfolio site usi
 
 ## Objectives
 
-1. Create at least two different wireframes for my site, one for mobile view and one for a larger screen.
+1. Create at least two different wireframes for the site, one for mobile view and one for a larger screen.
 
 2. Generate original content.
 
-3. Use the proper semantic and syntactic HTML tags to display my content.
+3. Use the proper semantic and syntactic HTML tags to display the content.
 
-4. Apply CSS to my content to create a well-styled and accessible site.
+4. Apply CSS to the content to create a well-styled and accessible site.
 
 5. Write media queries and/or use a framework to create a responsive site.
 
 6. Implement four advanced features that demonstrate the ability to apply web design theory or practice (JavaScript, plugins, Accessibility features, animation, etc.).
 
-7. Deploy site.
+7. Deploy the site.
 
 
 ## Requirements
@@ -53,14 +53,10 @@ I chose to build my site using Bootstrap 4 as a framework.
 
 ## Advanced Features
 
-- [ ] Use Bootstrap 4. (The specialization only covered Bootstrap 3.)
+- [X] Add a Carousel with four images.
 
-- [ ] Add a Carousel with four images.
-
-- [ ] Add a fixed navbar to the top of the page.
+- [X] Add a fixed navbar to the top of the page.
 
 - [ ] Add icons to social media links.
 
 - [ ] Enhance the accessibility of the site using [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist/).
-
-- [x] Use git for version control, share my code on GitHub, and use GitHub Pages for hosting.
