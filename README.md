@@ -57,6 +57,6 @@ I chose to build my site using Bootstrap 4 as a framework.
 
 - [X] Add a fixed navbar to the top of the page.
 
-- [ ] Add icons to social media links.
+- [X] Add icons to social media links.
 
 - [ ] Enhance the accessibility of the site using [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist/).
