@@ -1,3 +1,32 @@
-section {
-	padding-top: 60px;
+body {
+	background-color: #e9eaeb;
 }
+
+section {
+	padding-top: 70px;
+}
+
+main a {
+	color: #127ab5;
+	text-decoration: underline;
+}
+
+main a:hover {
+	color:#b24444;
+	text-decoration: underline;
+}
+
+#intro {
+	background-color: #edf8ff;
+	min-height: 100vh;
+	padding-bottom: 30px;
+}
+
+#intro img {
+	padding: 10%;
+}
+
+#intro a {
+	font-size: 28px;
+}
+	
