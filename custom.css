@@ -16,13 +16,13 @@ h3 {
 }
 
 main a {
-	color: #127ab5;
+	color: #185394;
 	text-decoration: underline;
 }
 
 main a:hover {
-	color:#214872;
-	text-decoration: underline;
+	color: #214872;
+	text-decoration: underline !important;
 }
 
 #intro {
