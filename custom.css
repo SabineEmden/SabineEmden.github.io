@@ -60,3 +60,7 @@ main a:hover {
 	color: #000000;
 }
 
+/*Fix contrast error for .sr-only*/
+.sr-only {
+	color: #000000;
+}
