@@ -40,7 +40,7 @@ main a:hover {
 }
 
 #skills, #about {
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 }
 
 #projects {
@@ -63,4 +63,5 @@ main a:hover {
 /*Fix contrast error for .sr-only*/
 .sr-only {
 	color: #000000;
+	background-color: #ffffff;
 }
