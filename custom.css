@@ -3,7 +3,12 @@ body {
 }
 
 section {
-	padding-top: 70px;
+	margin-top: 20px;
+	padding-top: 63px;
+}
+
+h3 {
+	font-size: 24px;
 }
 
 main a {
@@ -27,6 +32,18 @@ main a:hover {
 }
 
 #intro a {
-	font-size: 28px;
+	font-size: 24px;
 }
-	
+
+#skills, #about {
+	background-color: #FFFFFF;
+	}
+
+#projects {
+	background-color: #f6f7f7;
+}
+
+.carousel-caption {
+	background-color: rgba(255, 255, 255, 0.7);
+	color: #000000;
+}
