@@ -36,7 +36,22 @@ main a:hover {
 }
 
 #intro a {
-	font-size: 24px;
+	font-size: 20px;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #c94747;
+    border-color: #c94747;
+  	text-decoration: none;
+  	display: block;
+  	width: 180px;
+}
+
+.btn:hover {
+	color: #ffffff;
+  background-color: #b24444;
+  border-color: #b24444;
 }
 
 #skills, #about {
