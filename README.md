@@ -30,7 +30,7 @@ I chose to design and implement a single-page web development portfolio site usi
 
 - Each page or section has at least two semantic html tags.
 
-- Each page validates at [validator.w3.org](https://validator.w3.org) (warnings are acceptable) and [wave.webaim.org](http://wave.webaim.org).
+- Each page validates at [validator.w3.org](https://validator.w3.org) (warnings are acceptable).
 
 - Each page is responsive, has at least two different views, one for mobile and one for a larger screen, and a unique layout for each view.
 
@@ -50,7 +50,6 @@ The capstone course gives students three options:
 
 I chose to build my site using Bootstrap 4 as a framework.
 
-
 ## Advanced Features
 
 - [X] Add a Carousel with four images.
@@ -59,4 +58,4 @@ I chose to build my site using Bootstrap 4 as a framework.
 
 - [X] Add icons to social media links.
 
-- [ ] Enhance the accessibility of the site using [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist/).
+- [X] Enhance the accessibility of the site using WebAIM's[WAVE web accessibility evaluation tool](http://wave.webaim.org).
