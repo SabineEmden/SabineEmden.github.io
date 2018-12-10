@@ -58,4 +58,4 @@ I chose to build my site using Bootstrap 4 as a framework.
 
 - [X] Add icons to social media links.
 
-- [X] Enhance the accessibility of the site using WebAIM's[WAVE web accessibility evaluation tool](http://wave.webaim.org).
+- [X] Enhance the accessibility of the site using WebAIM's [WAVE web accessibility evaluation tool](http://wave.webaim.org).
