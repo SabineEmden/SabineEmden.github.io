@@ -1,7 +1,7 @@
 /*body, sections, and navbar*/
 
 body {
-	background-color: #e9eaeb; /*dark grey*/
+	background-color: #b3b3b3; /*dark grey*/
 }
 
 section {
@@ -24,7 +24,7 @@ section {
 }
 
 #projects {
-	background-color: #f6f7f7; /*light grey*/
+	background-color: #e9eaeb; /*medium grey*/
 }
 
 
