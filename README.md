@@ -1,8 +1,8 @@
 # Web Development Portfolio Site
 
-**Work in Progress**
+**Completed:** Last updated on December 14,2018
 
-The portfolio site is the capstone project for the Coursera Specialization [Web Desing for Everybody (Basics of Web Development and Coding)](https://www.coursera.org/specializations/web-design).
+This portfolio site is the capstone project for the Coursera Specialization [Web Desing for Everybody (Basics of Web Development and Coding)](https://www.coursera.org/specializations/web-design).
 
 I chose to design and implement a single-page web development portfolio site using Bootstrap 4.
 
@@ -19,9 +19,9 @@ I chose to design and implement a single-page web development portfolio site usi
 
 5. Write media queries and/or use a framework to create a responsive site.
 
-6. Implement four advanced features that demonstrate the ability to apply web design theory or practice (JavaScript, plugins, Accessibility features, animation, etc.).
+6. Implement four advanced features that demonstrate the ability to apply web design theory or practice (JavaScript, plugins, accessibility features, animation, etc.).
 
-7. Deploy the site.
+7. Deploy the site (optional).
 
 
 ## Requirements
@@ -30,7 +30,7 @@ I chose to design and implement a single-page web development portfolio site usi
 
 - Each page or section has at least two semantic html tags.
 
-- Each page validates at [validator.w3.org](https://validator.w3.org) (warnings are acceptable).
+- Each page validates at [validator.w3.org](https://validator.w3.org). (Warnings are acceptable.)
 
 - Each page is responsive, has at least two different views, one for mobile and one for a larger screen, and a unique layout for each view.
 
@@ -59,3 +59,15 @@ I chose to build my site using Bootstrap 4 as a framework.
 - [X] Add icons to social media links.
 
 - [X] Enhance the accessibility of the site using WebAIM's [WAVE web accessibility evaluation tool](http://wave.webaim.org).
+
+
+## Submission
+
+The project has to be submitted for peer grading in the form of a screen capture video and/or a written description. Deploying the site is not required and therefore posting a link to the deployed website is optional.
+
+The submission should include clear evidence that the site is:
+- w3 validator compliant (either through screen shots or demo),
+- responsive (either through screen shots or demo), and
+- well-styled (e.g. by showing the CSS files).
+
+The submission should also define and/or demonstrate the four advanced features of the site.
